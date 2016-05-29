@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bad Buddhist]]></title>
         <description><![CDATA[Bad Buddhist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bad-buddhist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 19:52:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 May 2016 20:07:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bad-buddhist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello everyone, my name is Adam and I'm a bad buddhist. I'm rarely present, I love intoxicants, I'm divorced, I love women and the pursuit of sensual pleasures, and worst of all – I refer to myself a lot. Which seems to be as good as saying that there is no darma. I am truly lost in a world of my own ill-being.</p>]]></description>
-            <link>undefinedhello-everyone-my-name-is-adam-and-im-a-bad-buddhist-im/index.html</link>
+            <description><![CDATA[<p>Hello everyone, my name is Adam and I'm a bad buddhist. I'm rarely present, I love intoxicants, I'm divorced, I love women and the pursuit of sensual pleasures, and worst of all – I refer to myself a lot. Which seems to be as good as saying that there is no darma. I am truly lost in a world of my own ill-being. However, there is this constant bell of mindfulness in my life. My daughter E. She reminds me of how great a simple life can be and how joy or ultimate sorrow can be manifest in the turn of a moment. Simply be watching her and being present with her – I learn so much. This site chronicles my quest to find balance and meaning in my seemingly pointless life filled with the suffering created by my own will. Liberation is my aim, not just for me – but for my family. Past and present.</p>]]></description>
+            <link>https://thegrid.ai/bad-buddhist/hello-everyone-my-name-is-adam-and-im-a-bad-buddhist-im/index.html</link>
             <guid isPermaLink="false">16324e91-895f-4bc0-99b3-5887e63d666b</guid>
-            <pubDate>Sun, 29 May 2016 19:52:51 GMT</pubDate>
+            <pubDate>Sun, 29 May 2016 20:07:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
