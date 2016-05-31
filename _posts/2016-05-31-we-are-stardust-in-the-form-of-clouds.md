@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: We are stardust in the form of clouds...
-datePublished: '2016-05-31T03:36:26.879Z'
-dateModified: '2016-05-31T02:48:02.438Z'
+datePublished: '2016-05-31T03:40:11.119Z'
+dateModified: '2016-05-31T03:40:00.423Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-31-we-are-stardust-in-the-form-of-clouds.md
@@ -17,6 +17,8 @@ url: we-are-stardust-in-the-form-of-clouds/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3115be68-f909-46fe-8e7c-d482342e9a2a.jpg)
+
 We are stardust in the form of clouds...
 
 If you are looking for an analogy to best describe the inner workings of reality, look to the sky. At night, if the clouds permit, we are slapped in the face one of the most incredible truths -- all of those little dots are stars -- and what we see is just the tip of the universe. We, and everything around is, are made of "star-stuff". We are those stars, and those stars are us. 
