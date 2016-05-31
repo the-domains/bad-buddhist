@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: We are stardust in the form of clouds...
-datePublished: '2016-05-31T03:40:11.119Z'
-dateModified: '2016-05-31T03:40:00.423Z'
+datePublished: '2016-05-31T03:43:49.809Z'
+dateModified: '2016-05-31T03:43:36.870Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-31-we-are-stardust-in-the-form-of-clouds.md
