@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: We are stardust in the form of clouds...
-datePublished: '2016-05-31T02:47:53.643Z'
-dateModified: '2016-05-31T02:46:43.721Z'
+datePublished: '2016-05-31T03:36:23.274Z'
+dateModified: '2016-05-31T02:48:02.438Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-31-we-are-stardust-in-the-form-of-clouds.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-31-we-are-stardust-in-the-form-of-clouds.md
 url: we-are-stardust-in-the-form-of-clouds/index.html
 _type: Article
 
@@ -41,8 +41,4 @@ Unlike clouds, we have some ability to be a creative force in nature. The nature
 
 As Thich Nhat Hahn says "It takes mud to make a lotus flower."
 
-When
-a storm brews within you. Sit with it and observe. Become love and
-compassion. Show yourself compassion and love yourself -- by loving
-yourself, you love all of us. By showing yourself compassion, you
-show all of us compassion.
+When a storm brews within you. Sit with it and observe. Become love and compassion. Show yourself compassion and love yourself -- by loving yourself, you love all of us. By showing yourself compassion, you show all of us compassion.
