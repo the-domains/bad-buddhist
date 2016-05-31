@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Hello everyone, my name is Adam and I'm a bad buddhist. I'm rarely present, I love intoxicants, I'm divorced, I love women and the pursuit of sensual pleasures, and worst of all – I refer to myself a lot. Which seems to be as good as saying that there is no darma. I am truly lost in a world of my own ill-being. "
-datePublished: '2016-05-29T20:11:07.215Z'
-dateModified: '2016-05-29T20:08:22.151Z'
+description: "Hello everyone, I'm a bad Buddhist. A really shitty one, in fact. Although I love the essence of the Buddha's teaching, the only reason I claim the title is for the instant street cred in my yoga classes - which definitely me get laid. I'm rarely present, I love intoxicants, I'm divorced, I find women immensely beautiful, am - generally speaking - a fan of sensual pleasures, and worst of all – I refer to myself a lot. Which seems to be as good as saying that there is no dharma. I am truly lost in a world of my own ill-being."
+datePublished: '2016-05-31T03:08:35.760Z'
+dateModified: '2016-05-31T03:08:20.979Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-29-hello-everyone-my-name-is-adam-and-im-a-bad-buddhist-im.md
@@ -17,8 +17,22 @@ url: hello-everyone-my-name-is-adam-and-im-a-bad-buddhist-im/index.html
 _type: Article
 
 ---
-Hello everyone, my name is Adam and I'm a bad buddhist. I'm rarely present, I love intoxicants, I'm divorced, I love women and the pursuit of sensual pleasures, and worst of all -- I refer to myself a lot. Which seems to be as good as saying that there is no darma. I am truly lost in a world of my own ill-being. 
+Hello everyone, I'm a bad Buddhist. A really shitty one, in fact. Although I love the essence of the Buddha's teaching, the only reason I claim the title is for the instant street cred in my yoga classes - which definitely me get laid. I'm rarely present, I love intoxicants, I'm divorced, I find women immensely beautiful, am - generally speaking - a fan of sensual pleasures, and worst of all -- I refer to myself a lot. Which seems to be as good as saying that there is no dharma. I am truly lost in a world of my own ill-being.
 
-However, there is this constant bell of mindfulness in my life. My daughter E. She reminds me of how great a simple life can be and how joy or ultimate sorrow can be manifest in the turn of a moment. Simply be watching her and being present with her -- I learn so much. 
+I'm an ego-maniac with a pension for saying "I told you so". I love being right at your expense. I've been called an asshole on more occasions than I can count on my favorite hand. I love a good stiff drink after a long day's work. I enjoy an evening of debauchery with my friends. I don't want to settle - because I am special. Period. You - maybe not so much - but I definitely am. Rules don't apply to me for I have transcended. 
 
-This site chronicles my quest to find balance and meaning in my seemingly pointless life filled with the suffering created by my own will. Liberation is my aim, not just for me -- but for my family. Past and present.
+Yet, when by myself, I feel like life is passing me by. I may be good at lots of things. I may have a kick-ass job, a nice home, a beautiful daughter, a decent-enough ex-wife, all of the inherit privileges that come along with being a middle-class white guy in the tech industry. I might even give women mind blowing orgasms, yet - most of the time - I feel completely empty - and not in the Zen way. 
+
+However, there is this constant bell of mindfulness in my life. My daughter E. She reminds me of how great a simple life can be and how joy or ultimate sorrow can be manifest in the turn of a moment. Simply by watching her and being present with her -- I learn so much.
+
+I'm a no bullshit kind of guy. I love the teachings of the Buddha, but I am not about to give up my happy hour. I might reign it in a little - but I am not about to stop pursing the seductive beauty of beautiful women. Let's get real - what is life without a little bit of craving?
+
+... I think you may now be seeing why I am titling this as "Bad Buddhist". I have been wanting to write about the teaching of the Buddha for years - but just couldn't bring myself to do it. I am NOT a teacher, just an observer and a pretty shitty practitioner. Yet, for some damn reason, I stick with it. I guess you could say that it gives me hope.
+
+This site chronicles my quest to find balance and meaning in my life. I don't believe in God, but I can't let go of purpose. Liberation is my aim, not just for me -- but for my family. Past and present. I hope we can all learn from my fuck-ups and insights to find ways to make life just a little bit better. That would make it worth it. Also, I really like reading my own words. Also, maybe this will give others the courage to get real and say things how they really are. As the great Tom Waits says:
+
+"Get down off the cross, we could use the wood. Come on up to the house."
+
+"Great wisdom comes from those who aren't afarid to get their hands dirty" - Me
+
+Here's what I have to say. Take it or leave it.
