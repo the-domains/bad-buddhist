@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: "Hello everyone, I'm a bad Buddhist. A really shitty one, in fact. Although I love the essence of the Buddha's teaching, the only reason I claim the title is for the instant street cred in my yoga classes - which definitely me get laid. I'm rarely present, I love intoxicants, I'm divorced, I find women immensely beautiful, am - generally speaking - a fan of sensual pleasures, and worst of all – I refer to myself a lot. Which seems to be as good as saying that there is no dharma. I am truly lost in a world of my own ill-being."
-datePublished: '2016-05-31T03:08:35.760Z'
-dateModified: '2016-05-31T03:08:20.979Z'
+description: "Hello everyone, I'm a bad Buddhist. A really shitty one, in fact. Although I love the essence of the Buddha's teaching, the only reason I claim the title is for the instant street cred in my yoga classes - which definitely gets me laid. I'm rarely present, I love intoxicants, I'm divorced, I find women immensely beautiful, am - generally speaking - a fan of sensual pleasures, and worst of all – I refer to myself a lot. Which seems to be as good as saying that there is no dharma. I am truly lost in a world of my own ill-being."
+datePublished: '2016-05-31T03:35:59.059Z'
+dateModified: '2016-05-31T03:33:20.242Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-29-hello-everyone-my-name-is-adam-and-im-a-bad-buddhist-im.md
@@ -17,7 +17,9 @@ url: hello-everyone-my-name-is-adam-and-im-a-bad-buddhist-im/index.html
 _type: Article
 
 ---
-Hello everyone, I'm a bad Buddhist. A really shitty one, in fact. Although I love the essence of the Buddha's teaching, the only reason I claim the title is for the instant street cred in my yoga classes - which definitely me get laid. I'm rarely present, I love intoxicants, I'm divorced, I find women immensely beautiful, am - generally speaking - a fan of sensual pleasures, and worst of all -- I refer to myself a lot. Which seems to be as good as saying that there is no dharma. I am truly lost in a world of my own ill-being.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09510374-44f0-459c-a6b3-49f1d0591eb8.jpg)
+
+Hello everyone, I'm a bad Buddhist. A really shitty one, in fact. Although I love the essence of the Buddha's teaching, the only reason I claim the title is for the instant street cred in my yoga classes - which definitely gets me laid. I'm rarely present, I love intoxicants, I'm divorced, I find women immensely beautiful, am - generally speaking - a fan of sensual pleasures, and worst of all -- I refer to myself a lot. Which seems to be as good as saying that there is no dharma. I am truly lost in a world of my own ill-being.
 
 I'm an ego-maniac with a pension for saying "I told you so". I love being right at your expense. I've been called an asshole on more occasions than I can count on my favorite hand. I love a good stiff drink after a long day's work. I enjoy an evening of debauchery with my friends. I don't want to settle - because I am special. Period. You - maybe not so much - but I definitely am. Rules don't apply to me for I have transcended. 
 
