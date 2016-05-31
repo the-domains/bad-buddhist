@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Hello everyone, I'm a bad Buddhist. A really shitty one, in fact. Although I love the essence of the Buddha's teaching, the only reason I claim the title is for the instant street cred in my yoga classes - which definitely gets me laid. I'm rarely present, I love intoxicants, I'm divorced, I find women immensely beautiful, am - generally speaking - a fan of sensual pleasures, and worst of all – I refer to myself a lot. Which seems to be as good as saying that there is no dharma. I am truly lost in a world of my own ill-being."
-datePublished: '2016-05-31T03:42:52.038Z'
-dateModified: '2016-05-31T03:42:30.396Z'
+datePublished: '2016-05-31T03:43:40.518Z'
+dateModified: '2016-05-31T03:42:59.485Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-29-hello-everyone-my-name-is-adam-and-im-a-bad-buddhist-im.md
